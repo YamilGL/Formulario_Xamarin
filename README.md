@@ -18,7 +18,8 @@ La App mostrará un pequeño formulario de esta manera:
 [![form2.jpg](https://i.postimg.cc/W1MgVFdf/form2.jpg)](https://postimg.cc/sMgv929p)
 
 
-Rellenamos los datos:
+Rellenamos los datos:                                   
+       
 [![form3.jpg](https://i.postimg.cc/7hGJWfv9/form3.jpg)](https://postimg.cc/0KvN65yK)
 
 [![form4.jpg](https://i.postimg.cc/m29F3zy2/form4.jpg)](https://postimg.cc/tYXTpgcL)
