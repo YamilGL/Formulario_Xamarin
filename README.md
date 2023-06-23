@@ -12,7 +12,8 @@ Cambiar la información de: "App.xaml.cs" y que este como se muestra en la image
 
 
 
-La App mostrará un pequeño formulario de esta manera: 
+La App mostrará un pequeño formulario de esta manera:                             
+
 [![form1.jpg](https://i.postimg.cc/zfCjx2wv/form1.jpg)](https://postimg.cc/zLfKBjcY)
 
 [![form2.jpg](https://i.postimg.cc/W1MgVFdf/form2.jpg)](https://postimg.cc/sMgv929p)
